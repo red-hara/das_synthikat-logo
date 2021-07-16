@@ -30,7 +30,7 @@ L 108.542,61.9134 L 108.923,60 L 108.542,58.0866 L 107.609,56.6892 L 107.643,56.
 L 72.8305,32.8684 L 94.8738,57.4081 L 3.09276,83.903 L -9.23911,50.2118 L -19.1234,52.3006 L -4.69534,91.7186
 L -4.66066,91.7059 L -4.61938,91.9134 L -3.53552,93.5355 L -1.91341,94.6194 L 0,95 z
 M -10.6709,45.4039 L -0.292603,32.9899 L -42.2851,41.864 L -45.8663,52.8416 z
-" stroke="black" fill="black" stroke-width="0.5">
+" stroke="black" fill="white" stroke-width="0.5">
 <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="6s" repeatCount="indefinite"/>
 </path>
 </svg>
