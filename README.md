@@ -1,6 +1,6 @@
 # das_synthikat logo
 
-![das_synthikat logo](./logo.svg)
+![das_synthikat logo](./logo_colors.svg)
 
 This repo holds the source code for the `das_synthikat` logo.
 
