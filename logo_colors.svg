@@ -38,7 +38,7 @@ M 181.034,4.89195 L 181.014,4.79829 L 181.913,4.61938 L 183.536,3.53552 L 184.61
 L 184.619,-1.91341 L 183.536,-3.53552 L 181.913,-4.61938 L 180.843,-4.83231 L 180.859,-4.9256 L 73.1789,-23.7113
 L 65.7727,-14.8523 L 153.597,0.469254 L 31.3697,26.2989 L 20.9914,38.7129 z
 M -10.6709,45.4039 L -0.292603,32.9899 L -42.2851,41.864 L -45.8663,52.8416 z
-" stroke="#feffa3r" fill="#feff50" stroke-width="3">
+" stroke="#feffa3" fill="#feff50" stroke-width="3">
     <animateTransform attributeName="transform" type="rotate" from="240 0 0" to="600 0 0" dur="6s" repeatCount="indefinite"/>
 </path>
 </svg>
